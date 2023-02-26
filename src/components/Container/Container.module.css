@@ -1,0 +1,10 @@
+.container section{
+    text-align: center;
+    margin: 2em 20em;
+    display: flex;
+    justify-content: center; 
+}
+
+.container section div{
+    margin-inline: 2px;
+}
